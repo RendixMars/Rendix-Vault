@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "6b8a15d3dc677097",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5c2a2b4818f3b05",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d87c6040eac1b541",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Русский язык.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "70e330e1f0706676",
+    "type": "split",
+    "children": [
+      {
+        "id": "56591a6669924964",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7ba45b90b5b79b43",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "efedd6bf322ad78d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "07cab8d682bb4b2a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "33cedd05105420f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "aea9b7ce415b2f03",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "995f0d5ee3c9a3fb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Русский язык.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "19e710d32c39f290",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Русский язык.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d72ae59757eb64e3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c2f2300e4e01e8c4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Русский язык.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "995f0d5ee3c9a3fb",
+  "lastOpenFiles": [
+    "Информатика.md",
+    "Русский язык.md",
+    "Математика/Неопределенно.md",
+    "Математика/Алгебра.md",
+    "Lectarium.md",
+    "Математика/Математика.md",
+    "Математика/Геометрия.md",
+    "Backup Obsidian.rar",
+    "Images/ImagesINF/N21.png",
+    "Images/ImagesINF",
+    "Images/ImagesGeometry/Треугольникиобщвида2.png",
+    "Images/ImagesGeometry/Треугольникиобщвида1.png",
+    "Images/ImagesGeometry/Касхордсекущая3.png",
+    "Images/ImagesGeometry/Касхордсекущая2.png",
+    "Images/ImagesGeometry/Касхордсекущая1.png",
+    "Images/ImagesGeometry/Прямоугольный треугольник.png",
+    "Images/ImagesAlgebra/Логарифмы3.png",
+    "Images/ImagesAlgebra/Логарифмы2.png",
+    "Images/ImagesGeometry/Трапеция.png",
+    "conflict-files-obsidian-git.md",
+    "Images/ImagesTB",
+    "Images/ImagesAlgebra",
+    "Images",
+    "Images/ImagesGeometry",
+    "Математика.md",
+    "Математика",
+    "Математика",
+    "2024-04-13.md",
+    "Без названия.canvas",
+    "Без названия 1.canvas"
+  ]
+}
