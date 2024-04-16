@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Русский язык.md",
+                "file": "Математика/Алгебра.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Русский язык.md",
+                "file": "Математика/Алгебра.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Русский язык.md",
+                "file": "Математика/Алгебра.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Русский язык.md"
+                "file": "Математика/Алгебра.md"
               }
             }
           }
@@ -138,6 +138,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-importer:Open Importer": false,
+      "templater-obsidian:Templater": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
@@ -146,10 +148,10 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "995f0d5ee3c9a3fb",
+  "active": "d87c6040eac1b541",
   "lastOpenFiles": [
-    "Информатика.md",
     "Русский язык.md",
+    "Информатика.md",
     "Математика/Неопределенно.md",
     "Математика/Алгебра.md",
     "Lectarium.md",
