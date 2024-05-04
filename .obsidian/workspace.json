@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Математика/Неопределенно.md",
+                "file": "Математика/Геометрия.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Математика/Неопределенно.md",
+                "file": "Математика/Геометрия.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Математика/Неопределенно.md",
+                "file": "Математика/Геометрия.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Математика/Неопределенно.md"
+                "file": "Математика/Геометрия.md"
               }
             }
           }
@@ -151,12 +151,12 @@
   "active": "d87c6040eac1b541",
   "lastOpenFiles": [
     "Математика/Алгебра.md",
+    "Математика/Геометрия.md",
+    "Математика/Математика.md",
+    "Математика/Неопределенно.md",
     "Русский язык.md",
     "Информатика.md",
-    "Математика/Неопределенно.md",
     "Lectarium.md",
-    "Математика/Математика.md",
-    "Математика/Геометрия.md",
     "Backup Obsidian.rar",
     "Images/ImagesINF/N21.png",
     "Images/ImagesINF",
