@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "c5c2a2b4818f3b05",
+        "id": "b3aeb29f0bf260fe",
         "type": "tabs",
         "children": [
           {
-            "id": "d87c6040eac1b541",
+            "id": "f1c90cf47bb329a1",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Лексикология.png"
+                "file": "Русский язык.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Лексикология.png",
+                "file": "Русский язык.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Лексикология.png",
+                "file": "Русский язык.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Лексикология.png"
+                "file": "Русский язык.md"
               }
             }
           }
@@ -146,18 +148,18 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "7ba45b90b5b79b43",
+  "active": "f1c90cf47bb329a1",
   "lastOpenFiles": [
-    "Без названия",
-    "Pasted image 20240507224349.png",
-    "Лексикология.png",
+    "Lectarium.md",
     "Русский язык.md",
+    "Images/ImagesRuss/Лексикология.png",
+    "Images/ImagesRuss",
+    "Pasted image 20240507224349.png",
     "Математика/Неопределенно.md",
     "Математика/Геометрия.md",
     "Математика/Алгебра.md",
     "Математика/Математика.md",
     "Информатика.md",
-    "Lectarium.md",
     "Backup Obsidian.rar",
     "Images/ImagesINF/N21.png",
     "Images/ImagesINF",
