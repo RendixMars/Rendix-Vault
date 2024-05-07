@@ -11,11 +11,9 @@
             "id": "d87c6040eac1b541",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Математика/Неопределенно.md",
-                "mode": "source",
-                "source": false
+                "file": "Лексикология.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Математика/Неопределенно.md",
+                "file": "Лексикология.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Математика/Неопределенно.md",
+                "file": "Лексикология.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Математика/Неопределенно.md"
+                "file": "Лексикология.png"
               }
             }
           }
@@ -148,13 +146,16 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "d87c6040eac1b541",
+  "active": "7ba45b90b5b79b43",
   "lastOpenFiles": [
+    "Без названия",
+    "Pasted image 20240507224349.png",
+    "Лексикология.png",
+    "Русский язык.md",
+    "Математика/Неопределенно.md",
     "Математика/Геометрия.md",
     "Математика/Алгебра.md",
     "Математика/Математика.md",
-    "Математика/Неопределенно.md",
-    "Русский язык.md",
     "Информатика.md",
     "Lectarium.md",
     "Backup Obsidian.rar",
@@ -167,8 +168,6 @@
     "Images/ImagesGeometry/Касхордсекущая1.png",
     "Images/ImagesGeometry/Прямоугольный треугольник.png",
     "Images/ImagesAlgebra/Логарифмы3.png",
-    "Images/ImagesAlgebra/Логарифмы2.png",
-    "Images/ImagesGeometry/Трапеция.png",
     "conflict-files-obsidian-git.md",
     "Images/ImagesTB",
     "Images/ImagesAlgebra",
