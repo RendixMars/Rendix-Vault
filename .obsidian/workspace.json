@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Русский язык.md",
+                "file": "Математика/Алгебра.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Русский язык.md",
+                "file": "Математика/Алгебра.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Русский язык.md",
+                "file": "Математика/Алгебра.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Русский язык.md"
+                "file": "Математика/Алгебра.md"
               }
             }
           }
@@ -161,9 +161,13 @@
   },
   "active": "2e4e55ab93ff2f3a",
   "lastOpenFiles": [
+    "Математика/Математика.md",
+    "Математика/Геометрия.md",
+    "Математика/Алгебра.md",
+    "Информатика.md",
+    "Русский язык.md",
     "Images/ImagesRuss/Сочинение7.png",
     "Images/ImagesRuss/Сочинение8.png",
-    "Русский язык.md",
     "Images/ImagesRuss/Работастекстом4№25.png",
     "Images/ImagesRuss/Работастекстом3№25.png",
     "Images/ImagesRuss/Работастекстом2№25.png",
@@ -175,10 +179,6 @@
     "Lectarium.md",
     "Images/ImagesRuss",
     "Математика/Неопределенно.md",
-    "Математика/Геометрия.md",
-    "Математика/Алгебра.md",
-    "Математика/Математика.md",
-    "Информатика.md",
     "Backup Obsidian.rar",
     "Images/ImagesINF",
     "conflict-files-obsidian-git.md",
