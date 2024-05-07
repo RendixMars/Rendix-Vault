@@ -11,6 +11,16 @@
             "id": "f1c90cf47bb329a1",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/ImagesRuss/Сочинение8.png"
+              }
+            }
+          },
+          {
+            "id": "2e4e55ab93ff2f3a",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "Русский язык.md",
@@ -19,7 +29,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -148,8 +159,11 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "7ba45b90b5b79b43",
+  "active": "2e4e55ab93ff2f3a",
   "lastOpenFiles": [
+    "Images/ImagesRuss/Сочинение7.png",
+    "Images/ImagesRuss/Сочинение8.png",
+    "Русский язык.md",
     "Images/ImagesRuss/Работастекстом4№25.png",
     "Images/ImagesRuss/Работастекстом3№25.png",
     "Images/ImagesRuss/Работастекстом2№25.png",
@@ -158,11 +172,7 @@
     "Images/ImagesRuss/Морфология7.png",
     "Images/ImagesRuss/Морфология6.png",
     "Images/ImagesRuss/Морфология5.png",
-    "Images/ImagesRuss/Работастекстом4.png",
-    "Images/ImagesRuss/Работастекстом3.png",
-    "Images/ImagesRuss/Работастекстом2.png",
     "Lectarium.md",
-    "Русский язык.md",
     "Images/ImagesRuss",
     "Математика/Неопределенно.md",
     "Математика/Геометрия.md",
