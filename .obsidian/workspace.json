@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Математика/Неопределенно.md",
+                "file": "Русский язык.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Математика/Неопределенно.md",
+                "file": "Русский язык.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Математика/Неопределенно.md",
+                "file": "Русский язык.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Математика/Неопределенно.md"
+                "file": "Русский язык.md"
               }
             }
           }
@@ -150,6 +150,7 @@
   },
   "active": "1a3a643423d0e84e",
   "lastOpenFiles": [
+    "Математика/Неопределенно.md",
     "Математика/Математика.md",
     "Математика/Геометрия.md",
     "Математика/Алгебра.md",
@@ -167,7 +168,6 @@
     "Images/ImagesRuss/Морфология5.png",
     "Lectarium.md",
     "Images/ImagesRuss",
-    "Математика/Неопределенно.md",
     "Backup Obsidian.rar",
     "Images/ImagesINF",
     "conflict-files-obsidian-git.md",
