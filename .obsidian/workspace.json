@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Информатика.md",
+                "file": "Русский язык.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Информатика.md",
+                "file": "Русский язык.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Информатика.md",
+                "file": "Русский язык.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Информатика.md"
+                "file": "Русский язык.md"
               }
             }
           }
@@ -150,12 +150,12 @@
   },
   "active": "cfac33f186168c68",
   "lastOpenFiles": [
+    "Информатика.md",
     "Русский язык.md",
     "Математика/Неопределенно.md",
     "Математика/Математика.md",
     "Математика/Алгебра.md",
     "Математика/Геометрия.md",
-    "Информатика.md",
     "Images/ImagesRuss/Сочинение7.png",
     "Images/ImagesRuss/Сочинение8.png",
     "Images/ImagesRuss/Работастекстом4№25.png",
