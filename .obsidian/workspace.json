@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5b93a42ac37fb94a",
+        "id": "36a9218e42c47d8d",
         "type": "tabs",
         "children": [
           {
-            "id": "1a3a643423d0e84e",
+            "id": "cfac33f186168c68",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Русский язык.md",
+                "file": "Информатика.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Русский язык.md",
+                "file": "Информатика.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Русский язык.md",
+                "file": "Информатика.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Русский язык.md"
+                "file": "Информатика.md"
               }
             }
           }
@@ -148,13 +148,13 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "1a3a643423d0e84e",
+  "active": "cfac33f186168c68",
   "lastOpenFiles": [
+    "Русский язык.md",
     "Математика/Неопределенно.md",
     "Математика/Математика.md",
-    "Математика/Геометрия.md",
     "Математика/Алгебра.md",
-    "Русский язык.md",
+    "Математика/Геометрия.md",
     "Информатика.md",
     "Images/ImagesRuss/Сочинение7.png",
     "Images/ImagesRuss/Сочинение8.png",
