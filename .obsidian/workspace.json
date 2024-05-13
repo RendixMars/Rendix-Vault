@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Русский язык.md",
+                "file": "Математика/Алгебра.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Русский язык.md",
+                "file": "Математика/Алгебра.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Русский язык.md",
+                "file": "Математика/Алгебра.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Русский язык.md"
+                "file": "Математика/Алгебра.md"
               }
             }
           }
@@ -150,8 +150,8 @@
   },
   "active": "cfac33f186168c68",
   "lastOpenFiles": [
-    "Информатика.md",
     "Русский язык.md",
+    "Информатика.md",
     "Математика/Неопределенно.md",
     "Математика/Математика.md",
     "Математика/Алгебра.md",
