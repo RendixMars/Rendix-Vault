@@ -4,33 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "36a9218e42c47d8d",
+        "id": "d0eeb1ae4b7f09cd",
         "type": "tabs",
         "children": [
           {
-            "id": "cfac33f186168c68",
+            "id": "ce3fce7972985979",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Lectarium.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e48d8620c67e4443",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.3"
+                "file": "Без названия.canvas",
+                "viewState": {
+                  "x": -560,
+                  "y": -160,
+                  "zoom": 0
+                }
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectarium.md",
+                "file": "Без названия.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lectarium.md",
+                "file": "Без названия.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectarium.md"
+                "file": "Без названия.canvas"
               }
             }
           }
@@ -159,25 +151,26 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "e48d8620c67e4443",
+  "active": "ce3fce7972985979",
   "lastOpenFiles": [
-    "Русский язык.md",
-    "Lectarium.md",
-    "Информатика.md",
-    "Математика/Неопределенно.md",
-    "Математика/Математика.md",
-    "Математика/Геометрия.md",
     "Математика/Алгебра.md",
-    "Images/ImagesRuss/Сочинение7.png",
-    "Images/ImagesRuss/Сочинение8.png",
-    "Images/ImagesRuss/Работастекстом4№25.png",
-    "Images/ImagesRuss/Работастекстом3№25.png",
-    "Images/ImagesRuss/Работастекстом2№25.png",
-    "Images/ImagesRuss/Работастекстом№25.png",
-    "Images/ImagesRuss/Морфология8.png",
-    "Images/ImagesRuss/Морфология7.png",
-    "Images/ImagesRuss/Морфология6.png",
-    "Images/ImagesRuss/Морфология5.png",
+    "Без названия.canvas",
+    "Математика/Геометрия.md",
+    "Математика/Математика.md",
+    "Математика/Неопределенно.md",
+    "Images/ImagesTB/Теориявероятности1.png",
+    "Images/ImagesTB/ТВ2.png",
+    "Images/ImagesTB/ТВ1.png",
+    "Images/ImagesTB/СплавыСмеси.png",
+    "Images/ImagesTB/Работа.png",
+    "Images/ImagesTB/Движениеповоде.png",
+    "Images/ImagesTB/ПроцентыПрогрессии.png",
+    "Images/ImagesRuss/Ударение9.png",
+    "Images/ImagesRuss/Ударение8.png",
+    "Images/ImagesRuss/Ударение7.png",
+    "Русский язык.md",
+    "Информатика.md",
+    "Lectarium.md",
     "Images/ImagesRuss",
     "Backup Obsidian.rar",
     "Images/ImagesINF",
@@ -190,7 +183,6 @@
     "Математика",
     "Математика",
     "2024-04-13.md",
-    "Без названия.canvas",
     "Без названия 1.canvas"
   ]
 }
