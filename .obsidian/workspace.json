@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Математика/Алгебра.md",
+                "file": "Lectarium.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "e48d8620c67e4443",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Математика/Алгебра.md",
+                "file": "Lectarium.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Математика/Алгебра.md",
+                "file": "Lectarium.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Математика/Алгебра.md"
+                "file": "Lectarium.md"
               }
             }
           }
@@ -148,14 +159,15 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "cfac33f186168c68",
+  "active": "e48d8620c67e4443",
   "lastOpenFiles": [
     "Русский язык.md",
+    "Lectarium.md",
     "Информатика.md",
     "Математика/Неопределенно.md",
     "Математика/Математика.md",
-    "Математика/Алгебра.md",
     "Математика/Геометрия.md",
+    "Математика/Алгебра.md",
     "Images/ImagesRuss/Сочинение7.png",
     "Images/ImagesRuss/Сочинение8.png",
     "Images/ImagesRuss/Работастекстом4№25.png",
@@ -166,7 +178,6 @@
     "Images/ImagesRuss/Морфология7.png",
     "Images/ImagesRuss/Морфология6.png",
     "Images/ImagesRuss/Морфология5.png",
-    "Lectarium.md",
     "Images/ImagesRuss",
     "Backup Obsidian.rar",
     "Images/ImagesINF",
