@@ -13,11 +13,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Без названия.canvas",
+                "file": "ALL.canvas",
                 "viewState": {
-                  "x": -560,
-                  "y": -160,
-                  "zoom": 0
+                  "x": -248.20942397300877,
+                  "y": 542.9366896257737,
+                  "zoom": -0.3333333333333334
                 }
               }
             }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Без названия.canvas",
+                "file": "ALL.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Без названия.canvas",
+                "file": "ALL.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Без названия.canvas"
+                "file": "ALL.canvas"
               }
             }
           }
@@ -154,7 +154,7 @@
   "active": "ce3fce7972985979",
   "lastOpenFiles": [
     "Математика/Алгебра.md",
-    "Без названия.canvas",
+    "ALL.canvas",
     "Математика/Геометрия.md",
     "Математика/Математика.md",
     "Математика/Неопределенно.md",
