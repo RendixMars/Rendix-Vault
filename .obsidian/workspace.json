@@ -11,14 +11,11 @@
             "id": "ce3fce7972985979",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "ALL.canvas",
-                "viewState": {
-                  "x": -248.20942397300877,
-                  "y": 542.9366896257737,
-                  "zoom": -1
-                }
+                "file": "Математика/Алгебра.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ALL.canvas",
+                "file": "Математика/Алгебра.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ALL.canvas",
+                "file": "Математика/Алгебра.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ALL.canvas"
+                "file": "Математика/Алгебра.md"
               }
             }
           }
@@ -153,11 +150,14 @@
   },
   "active": "ce3fce7972985979",
   "lastOpenFiles": [
-    "Математика/Алгебра.md",
-    "ALL.canvas",
-    "Математика/Геометрия.md",
     "Математика/Математика.md",
+    "Информатика.md",
+    "Русский язык.md",
+    "ALL.canvas",
+    "Lectarium.md",
+    "Математика/Алгебра.md",
     "Математика/Неопределенно.md",
+    "Математика/Геометрия.md",
     "Images/ImagesTB/Теориявероятности1.png",
     "Images/ImagesTB/ТВ2.png",
     "Images/ImagesTB/ТВ1.png",
@@ -168,9 +168,6 @@
     "Images/ImagesRuss/Ударение9.png",
     "Images/ImagesRuss/Ударение8.png",
     "Images/ImagesRuss/Ударение7.png",
-    "Русский язык.md",
-    "Информатика.md",
-    "Lectarium.md",
     "Images/ImagesRuss",
     "Backup Obsidian.rar",
     "Images/ImagesINF",
