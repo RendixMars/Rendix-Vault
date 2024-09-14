@@ -1,13 +1,10 @@
 {
 	"nodes":[
-		{"id":"6082c5d86e7306a5","type":"file","file":"Математика/Алгебра.md","x":-1340,"y":-580,"width":700,"height":680},
-		{"id":"3f94bfc6f02f516c","x":-620,"y":-580,"width":720,"height":680,"type":"file","file":"Математика/Геометрия.md"},
-		{"id":"2688765d4e3aef10","x":120,"y":-580,"width":680,"height":680,"type":"file","file":"Математика/Неопределенно.md"},
-		{"id":"d3abdb3572051cdc","x":-1340,"y":480,"width":1080,"height":840,"type":"file","file":"Русский язык.md"},
-		{"id":"da58d8f0996068cf","x":-240,"y":480,"width":1040,"height":840,"type":"file","file":"Информатика.md"},
-		{"id":"800c0b1ed45c12b6","x":-385,"y":260,"width":250,"height":60,"type":"text","text":"Ну это пиздец\n"}
+		{"id":"d3abdb3572051cdc","type":"file","file":"Русский язык.md","x":-1340,"y":480,"width":1080,"height":840},
+		{"id":"da58d8f0996068cf","type":"file","file":"Информатика.md","x":-240,"y":480,"width":1040,"height":840},
+		{"id":"6082c5d86e7306a5","type":"file","file":"Математика/Алгебра.md","x":-1800,"y":-580,"width":960,"height":900},
+		{"id":"3f94bfc6f02f516c","type":"file","file":"Математика/Геометрия.md","x":-800,"y":-580,"width":1080,"height":900},
+		{"id":"2688765d4e3aef10","type":"file","file":"Математика/Неопределенно.md","x":320,"y":-580,"width":960,"height":900}
 	],
-	"edges":[
-		{"id":"865af7892016de99","fromNode":"800c0b1ed45c12b6","fromSide":"right","toNode":"da58d8f0996068cf","toSide":"top"}
-	]
+	"edges":[]
 }
