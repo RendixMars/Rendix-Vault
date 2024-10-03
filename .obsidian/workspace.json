@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Русский язык.md",
+                "file": "Математика/Геометрия.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Русский язык.md",
+                "file": "Математика/Геометрия.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Русский язык.md",
+                "file": "Математика/Геометрия.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Русский язык.md"
+                "file": "Математика/Геометрия.md"
               }
             }
           }
@@ -150,13 +150,13 @@
   },
   "active": "ce3fce7972985979",
   "lastOpenFiles": [
+    "Математика/Неопределенно.md",
+    "Математика/Математика.md",
     "Математика/Алгебра.md",
     "Математика/Геометрия.md",
-    "ALL.canvas",
-    "Математика/Математика.md",
-    "Математика/Неопределенно.md",
-    "Информатика.md",
     "Русский язык.md",
+    "ALL.canvas",
+    "Информатика.md",
     "Lectarium.md",
     "Images/ImagesTB/Теориявероятности1.png",
     "Images/ImagesTB/ТВ2.png",
