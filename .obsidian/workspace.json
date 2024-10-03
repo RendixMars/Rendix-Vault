@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Математика/Геометрия.md",
+                "file": "Информатика.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Математика/Геометрия.md",
+                "file": "Информатика.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Математика/Геометрия.md",
+                "file": "Информатика.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Математика/Геометрия.md"
+                "file": "Информатика.md"
               }
             }
           }
@@ -150,10 +150,10 @@
   },
   "active": "ce3fce7972985979",
   "lastOpenFiles": [
+    "Математика/Геометрия.md",
     "Математика/Неопределенно.md",
     "Математика/Математика.md",
     "Математика/Алгебра.md",
-    "Математика/Геометрия.md",
     "Русский язык.md",
     "ALL.canvas",
     "Информатика.md",
