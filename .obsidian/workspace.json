@@ -11,17 +11,14 @@
             "id": "1d5ae6e4c6e4ea49",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "ALL.canvas",
-                "viewState": {
-                  "x": -264.51955870747634,
-                  "y": 421.30405314033555,
-                  "zoom": -1.1314417709627336
-                }
+                "file": "Из лектариума по информатике.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "ALL"
+              "icon": "lucide-file",
+              "title": "Из лектариума по информатике"
             }
           }
         ]
@@ -170,6 +167,7 @@
   "active": "1d5ae6e4c6e4ea49",
   "lastOpenFiles": [
     "Информатика.md",
+    "ALL.canvas",
     "Lectarium.md",
     "Из лектариума по информатике.md",
     "Математика/Геометрия.md",
@@ -177,7 +175,6 @@
     "Математика/Математика.md",
     "Математика/Алгебра.md",
     "Русский язык.md",
-    "ALL.canvas",
     "Images/ImagesTB/Теориявероятности1.png",
     "Images/ImagesTB/ТВ2.png",
     "Images/ImagesTB/ТВ1.png",
