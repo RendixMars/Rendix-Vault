@@ -4,39 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "d0eeb1ae4b7f09cd",
+        "id": "29e4dce313c76a26",
         "type": "tabs",
         "children": [
           {
-            "id": "ce3fce7972985979",
+            "id": "1d5ae6e4c6e4ea49",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Информатика.md",
-                "mode": "source",
-                "source": false
+                "file": "ALL.canvas",
+                "viewState": {
+                  "x": -264.51955870747634,
+                  "y": 421.30405314033555,
+                  "zoom": -1.1314417709627336
+                }
               },
-              "icon": "lucide-file",
-              "title": "Информатика"
-            }
-          },
-          {
-            "id": "e0ac56901e6b41b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Из лектариума по информатике.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Из лектариума по информатике"
+              "icon": "lucide-layout-dashboard",
+              "title": "ALL"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -179,9 +167,10 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "e0ac56901e6b41b8",
+  "active": "1d5ae6e4c6e4ea49",
   "lastOpenFiles": [
     "Информатика.md",
+    "Lectarium.md",
     "Из лектариума по информатике.md",
     "Математика/Геометрия.md",
     "Математика/Неопределенно.md",
@@ -189,7 +178,6 @@
     "Математика/Алгебра.md",
     "Русский язык.md",
     "ALL.canvas",
-    "Lectarium.md",
     "Images/ImagesTB/Теориявероятности1.png",
     "Images/ImagesTB/ТВ2.png",
     "Images/ImagesTB/ТВ1.png",
