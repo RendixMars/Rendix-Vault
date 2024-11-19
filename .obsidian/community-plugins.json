@@ -1,5 +1,6 @@
 [
   "obsidian-importer",
   "templater-obsidian",
-  "obsidian-git"
+  "obsidian-git",
+  "execute-code"
 ]
