@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "aaaf860c81105207",
+        "id": "ef949fb0aa7d6636",
         "type": "tabs",
         "children": [
           {
-            "id": "655610c21a38ed50",
+            "id": "a8ed5f3d36e5cd97",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Из лектариума по информатике.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Из лектариума по информатике"
+              "title": "Новая вкладка"
             }
           }
         ]
@@ -164,13 +160,13 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "655610c21a38ed50",
+  "active": "7ba45b90b5b79b43",
   "lastOpenFiles": [
-    "Информатика.md",
-    "ALL.canvas",
-    "Из лектариума по информатике.md",
-    "Lectarium.md",
     "Русский язык.md",
+    "Информатика.md",
+    "Из лектариума по информатике.md",
+    "ALL.canvas",
+    "Lectarium.md",
     "сука.md",
     "Математика/Геометрия.md",
     "Математика/Неопределенно.md",
