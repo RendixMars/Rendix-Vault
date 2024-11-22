@@ -11,17 +11,14 @@
             "id": "a8ed5f3d36e5cd97",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "ALL.canvas",
-                "viewState": {
-                  "x": -260,
-                  "y": 370,
-                  "zoom": -1.1314417709627336
-                }
+                "file": "Из лектариума по информатике.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "ALL"
+              "icon": "lucide-file",
+              "title": "Из лектариума по информатике"
             }
           }
         ]
@@ -169,8 +166,8 @@
   },
   "active": "a8ed5f3d36e5cd97",
   "lastOpenFiles": [
-    "Русский язык.md",
     "ALL.canvas",
+    "Русский язык.md",
     "Информатика.md",
     "Из лектариума по информатике.md",
     "Lectarium.md",
