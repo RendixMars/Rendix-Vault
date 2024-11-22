@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Из лектариума по информатике.md",
+                "file": "Информатика.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Из лектариума по информатике"
+              "title": "Информатика"
             }
           }
         ]
@@ -166,10 +166,10 @@
   },
   "active": "a8ed5f3d36e5cd97",
   "lastOpenFiles": [
+    "Из лектариума по информатике.md",
     "ALL.canvas",
     "Русский язык.md",
     "Информатика.md",
-    "Из лектариума по информатике.md",
     "Lectarium.md",
     "сука.md",
     "Математика/Геометрия.md",
