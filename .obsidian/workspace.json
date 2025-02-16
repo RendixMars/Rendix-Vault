@@ -11,17 +11,14 @@
             "id": "a8ed5f3d36e5cd97",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "ALL.canvas",
-                "viewState": {
-                  "x": -260,
-                  "y": 370,
-                  "zoom": -1.1314417709627336
-                }
+                "file": "Русский язык.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "ALL"
+              "icon": "lucide-file",
+              "title": "Русский язык"
             }
           }
         ]
@@ -43,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Файловый менеджер"
@@ -167,17 +165,17 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "a8ed5f3d36e5cd97",
+  "active": "7ba45b90b5b79b43",
   "lastOpenFiles": [
-    "Русский язык.md",
+    "Lectarium.md",
     "Информатика.md",
-    "Математика/Геометрия.md",
+    "Русский язык.md",
     "Из лектариума по информатике.md",
+    "ALL.canvas",
+    "Математика/Геометрия.md",
     "Математика/Неопределенно.md",
     "Математика/Математика.md",
     "Математика/Алгебра.md",
-    "ALL.canvas",
-    "Lectarium.md",
     "сука.md",
     "Images/ImagesTB/Теориявероятности1.png",
     "Images/ImagesTB/ТВ2.png",
