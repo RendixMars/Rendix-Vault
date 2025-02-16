@@ -8,17 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a8ed5f3d36e5cd97",
+            "id": "123d6aff4ad6d0c6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Русский язык.md",
-                "mode": "source",
-                "source": false
+                "file": "ALL.canvas",
+                "viewState": {
+                  "x": -260,
+                  "y": 370,
+                  "zoom": -1.1314417709627336
+                }
               },
-              "icon": "lucide-file",
-              "title": "Русский язык"
+              "icon": "lucide-layout-dashboard",
+              "title": "ALL"
             }
           }
         ]
@@ -165,8 +168,9 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "a8ed5f3d36e5cd97",
+  "active": "123d6aff4ad6d0c6",
   "lastOpenFiles": [
+    "Ку.md",
     "Lectarium.md",
     "Русский язык.md",
     "Русский.md",
