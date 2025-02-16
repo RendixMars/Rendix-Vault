@@ -11,14 +11,17 @@
             "id": "a8ed5f3d36e5cd97",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Математика/Геометрия.md",
-                "mode": "preview",
-                "source": false
+                "file": "ALL.canvas",
+                "viewState": {
+                  "x": -260,
+                  "y": 370,
+                  "zoom": -1.1314417709627336
+                }
               },
-              "icon": "lucide-file",
-              "title": "Геометрия"
+              "icon": "lucide-layout-dashboard",
+              "title": "ALL"
             }
           }
         ]
@@ -166,14 +169,14 @@
   },
   "active": "a8ed5f3d36e5cd97",
   "lastOpenFiles": [
-    "Из лектариума по информатике.md",
+    "Русский язык.md",
     "Информатика.md",
-    "Математика/Неопределенно.md",
     "Математика/Геометрия.md",
+    "Из лектариума по информатике.md",
+    "Математика/Неопределенно.md",
     "Математика/Математика.md",
     "Математика/Алгебра.md",
     "ALL.canvas",
-    "Русский язык.md",
     "Lectarium.md",
     "сука.md",
     "Images/ImagesTB/Теориявероятности1.png",
