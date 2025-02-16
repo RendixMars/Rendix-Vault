@@ -38,8 +38,7 @@
               "title": "ку"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,10 +182,10 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "c2fb7c669434137d",
+  "active": "123d6aff4ad6d0c6",
   "lastOpenFiles": [
-    "ALL.canvas",
     "ку.md",
+    "ALL.canvas",
     "Pasted image 20250216224214.png",
     "Ку.md",
     "Lectarium.md",
