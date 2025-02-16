@@ -11,17 +11,14 @@
             "id": "123d6aff4ad6d0c6",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "ALL.canvas",
-                "viewState": {
-                  "x": -260,
-                  "y": 370,
-                  "zoom": -1.1314417709627336
-                }
+                "file": "Информатика.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "ALL"
+              "icon": "lucide-file",
+              "title": "Информатика"
             }
           },
           {
@@ -184,8 +181,8 @@
   },
   "active": "123d6aff4ad6d0c6",
   "lastOpenFiles": [
-    "ку.md",
     "ALL.canvas",
+    "ку.md",
     "Pasted image 20250216224214.png",
     "Ку.md",
     "Lectarium.md",
